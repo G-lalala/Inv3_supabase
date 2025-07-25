@@ -134,3 +134,6 @@ logs
 # Temporary folders
 tmp/
 temp/ 
+
+# Rest Client
+*.http
